@@ -24,9 +24,9 @@ Ideal for recruiters, analysts, job seekers, or hiring managers who need quick, 
 ## 📁 Project Files
 
 - `Salary_Dashboard.xlsx` – Main Excel dashboard
-- `dashboard-preview.png` – Screenshot of the dashboard (optional)
+- `dashboard-preview.png` – Screenshot of the dashboard
 - `Project_Documentation.md` – Full technical breakdown
-- `README.md` – GitHub overview
+- `README.md` –
 
 ---
 
@@ -51,7 +51,6 @@ Ideal for recruiters, analysts, job seekers, or hiring managers who need quick, 
 ##  Known Limitations
 
 - Some country names may not render correctly in map visuals
-- `SEARCH()` may match unintended partial strings (e.g., “Intern” in “International”)
   
 ---
 
