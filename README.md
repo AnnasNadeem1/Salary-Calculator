@@ -78,5 +78,4 @@ This project demonstrates:
 ![Dashboard Screenshot](image.png)
 
 ---
-![Uploading image.png…]()
 
